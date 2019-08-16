@@ -8,7 +8,8 @@
   
  
 ## 测试：
-1.需要nodejs环境。
+1.需要nodejs环境
+
 2.在项目内，执行下面命令，以便安装依赖包
 ``` bash
 $:npm install
