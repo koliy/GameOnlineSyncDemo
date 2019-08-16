@@ -19,7 +19,7 @@ $:node app
 ```
 4.启动2个客户端，进入client目录下用google浏览器打开。其它浏览器对socket.io兼容性不好。
 
-样图:
+## 样图:
 ![image](https://github.com/koliy/GameOnlineSyncDemo/blob/master/TestUnLockStep/11.png)
 
 
