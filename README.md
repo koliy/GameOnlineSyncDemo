@@ -9,3 +9,5 @@ TestUnLockStep: 乐观帧同步(非轮)
 
 TestUnLockStepTurn: 乐观帧同步(轮结构)
 
+TestUnLockStepShadow：乐观帧同步(影子跟随算法)
+
