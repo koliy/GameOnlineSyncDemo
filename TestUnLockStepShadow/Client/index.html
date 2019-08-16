@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TestUnlockStep</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="socket.io.js" type="text/javascript"></script>
+    <script src="jquery.min.js" type="text/javascript"></script>
+    <script src="consts.js" type="text/javascript"></script>
+    <script src="GameObject.js" type="text/javascript"></script>
+    <script src="KeyBoard.js" type="text/javascript"></script>
+    <script src="main.js" type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+</head>
+<body>
+    <di id="content">
+        <canvas id="canvas" width="800" height="600">
+
+        </canvas>
+        <button id="btnDelay">模拟延时</button>
+        <button id="btnLoss">模拟丢包</button>
+        <p class="bottom_tips">Tips:键盘上下左右移动方块，回车键开关相位滞后</p>
+        <p id="phaselag">相位滞后:Off</p>
+        <p id="lag" class="bottom_tips"></p>
+    </di>
+    <div id="login">
+        <p id="title">乐观帧同步小游戏(非轮架构)</p>
+        <div id="login-content">
+            <label>加入房间</label>
+            <input type="text" id="account" placeholder="在此输入用户名"/>
+            <button id="btnStart">开始游戏</button>
+        </div>
+
+    </div>
+    <div id="tips"></div>
+</body>
+</html>
