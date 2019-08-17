@@ -16,4 +16,4 @@ unitypomelo-server： pomelo服务器
 
 unitypomelo-client:  客户端，unity开发
 
-![image](https://github.com/koliy/GameOnlineSyncDemo/blob/master/unitypomelo4.gif)
+
