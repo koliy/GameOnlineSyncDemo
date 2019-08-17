@@ -1,0 +1,20 @@
+{
+    "name": "unitypomelo",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "crc": "0.2.0",
+        "promise": ">=0.0.1",
+        "mysql": ">=2.0",
+        "async": ">=0.0.1",
+        "generic-pool": "*",
+        "crypto-js": "*",
+        "pomelo-sync-plugin": ">=0.0.1",
+        "pomelo-collection": ">=0.1.0",
+        "pomelo": "2.2.5"
+    },
+    "devDependencies": {
+        "should": ">=0.0.1",
+        "mocha": ">=0.0.1"
+    }
+}
