@@ -15,3 +15,5 @@ TestUnLockStepShadow：乐观帧同步(影子跟随算法)
 unitypomelo-server： pomelo服务器
 
 unitypomelo-client:  客户端，unity开发
+
+![image](https://github.com/koliy/GameOnlineSyncDemo/blob/master/unitypomelo4.gif)
